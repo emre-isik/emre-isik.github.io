@@ -29,12 +29,12 @@ My [ADS record of publications](https://ui.adsabs.harvard.edu/search/filter_data
 
 I am serving as the elected vice president of the [Inter-Division Commission E4 "Impact of Magnetic Activity on Solar and Stellar Environments"](https://iau.org/science/scientific_bodies/commissions/E4/info/) of the [International Astronomical Union (IAU)](https://www.iau.org). 
 
-- Recent/current collaborators (click symbol to unfold)
-    - A.I. Shapiro and the [SOLVe/REVEAL group](https://www2.mps.mpg.de/projects/solve/); S.K. Solanki, R.H. Cameron, [MPI f. Solar System Research](https://www.mps.mpg.de/en)
+- Recent/current collaborators
+    - S.K. Solanki, R.H. Cameron, [MPI f. Solar System Research](https://www.mps.mpg.de/en), A.I. Shapiro and the [SOLVe/REVEAL group](https://www2.mps.mpg.de/projects/solve/); 
     - [H.V. Şenavcı](http://cv.ankara.edu.tr/kisi.php?id=hvsenavci@ankara.edu.tr&deger=2), Ankara University
     - M. Melwani Daswani, Jet Propulsion Laboratory, California Institute of Technology
 - Past collaborators
-    - M. Schüssler (PhD advisor), R.H. Cameron, D. Schmitt, V. Holzwarth, MPI for Solar System Research
+    - M. Schüssler (PhD advisor), D. Schmitt, V. Holzwarth, MPI for Solar System Research
     - J. Jiang, Beihang University, China
 
 ## 🏛️ Teaching
