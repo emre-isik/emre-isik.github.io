@@ -10,7 +10,7 @@ layout: home
 
 # Welcome!
 
-I am Emre Işık (*pron.* 'Ishik'), currently a scientist at the [Max Planck Institute for Solar System Research](http://www.mps.mpg.de) in Göttingen, Germany. Between 2019-2023 I worked as an associate professor of astroinformatics at the Dept. of Computer Science, [Turkish-German University](http://www.tau.edu.tr/de), in [Beykoz](https://en.wikipedia.org/wiki/Beykoz), [Istanbul](https://en.wikipedia.org/wiki/Istanbul), [Türkiye](https://en.wikipedia.org/wiki/Turkey). 
+I am Emre Işık (*pron.* 'Ishik'), currently a scientist at the [Max Planck Institute for Solar System Research](http://www.mps.mpg.de) in Göttingen, Germany. Between 2019-2023 I worked as an associate professor of astroinformatics at the Dept. of Computer Science, [Turkish-German University](http://www.tau.edu.tr/en), in [Beykoz](https://en.wikipedia.org/wiki/Beykoz), [Istanbul](https://en.wikipedia.org/wiki/Istanbul), [Türkiye](https://en.wikipedia.org/wiki/Turkey). 
 
 Through numerical simulations and data analysis, I am exploring the physical mechanisms (mostly through MHD simulations) underlying the observed magnetic activity patterns on the Sun and other Sun-like stars, in comparison with observations. Thanks to my recent years of teaching and supervising in (astro)informatics, I am somewhat machine-learning-ready. I am also interested in astrobiology, and recently started working on modelling organic reaction favourability in ocean-world interiors. Click on the links below to see my research summaries. 
 
