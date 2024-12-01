@@ -24,7 +24,7 @@ I am exploring mechanisms for emergence and transport of magnetic fields in (esp
   </p>
 </div>
 
-We focused on three activity proxies of the young K2V star PW Andromedae rotating at a period of 1.72 d. Doppler imaging of starspots, TiO-band analysis of starspots, and the associated chromospheric activity, using high-resolution spectroscopy. We found that the starspot distribution from line-profile inversions are consistent with the TiO-band profiles and the chromospheric emission also follows the photospheric magnetic activity pattern. We introduced a new Doppler imaging code SpotDIPy in Python, that allows surface reconstructions spots using the maximum entropy approach. In the upcoming version of the code, 
+We focused on three activity proxies of the young K2V star PW Andromedae rotating at a period of 1.72 d. Doppler imaging of starspots, TiO-band analysis of starspots, and the associated chromospheric activity, using high-resolution spectroscopy. We found that the starspot distribution from line-profile inversions are consistent with the TiO-band profiles and the chromospheric emission also follows the photospheric magnetic activity pattern. We introduced a new Doppler imaging code SpotDIPy in Python, that allows surface reconstructions spots using the maximum entropy approach. [SpotDIPy](https://pypi.org/project/SpotDIPy/) In the upcoming version of the code, there will be the option of 
 <br> <br> <br>
 **Reference**
 
