@@ -24,11 +24,11 @@ I am exploring mechanisms for emergence and transport of magnetic fields in (esp
   </p>
 </div>
 
-The (Işık et al. 2018, scroll below) and synthesised light curves. The study was led by **Nina E. Nèmec**, who developed a model to generate light curves using time-resolved full-surface maps of magnetic flux distribution from surface flux transport simulations. We showed that, the combined effects of increasing degree of nesting, the activity level, and the rotation rate have led to more regular light curves. In particular, the nesting tendency of active region emergence boosts up light-curve amplitudes. 
+We focused on three activity proxies of the young K2V star PW Andromedae rotating at a period of 1.72 d. Doppler imaging of starspots, TiO-band analysis of starspots, and the associated chromospheric activity, using high-resolution spectroscopy. We found that the starspot distribution from line-profile inversions are consistent with the TiO-band profiles and the chromospheric emission also follows the photospheric magnetic activity pattern. We introduced a new Doppler imaging code SpotDIPy in Python, that allows surface reconstructions spots using the maximum entropy approach. In the upcoming version of the code, 
 <br> <br> <br>
 **Reference**
 
-Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Solanki, S.K., Reinhold, T. **2023**. [*Astronomy & Astrophysics*, 672,  A138](https://doi.org/10.1051/0004-6361/202244412)
+Bahar, E., Şenavcı, H.V., **Işık, E.**, Hussain, G.A.J., Kochukhov, O., Montes, D, Xiang, Y. **2024**. [*Astrophys. J.*, Astrophysical Journal, 960, 60](https://doi.org/10.3847/1538-4357/ad055d)
 
 ---
 
