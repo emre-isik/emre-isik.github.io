@@ -41,7 +41,7 @@ We focused on three activity proxies of the young K2V star PW Andromedae rotatin
 <br> <br> <br>
 **Reference**
 
-Bahar, E., Şenavcı, H.V., **Işık, E.**, Hussain, G.A.J., Kochukhov, O., Montes, D, Xiang, Y. **2024**. [*Astrophys. J.*, Astrophysical Journal, 960, 60](https://doi.org/10.3847/1538-4357/ad055d)
+Bahar, E., Şenavcı, H.V., **Işık, E.**, Hussain, G.A.J., Kochukhov, O., Montes, D, Xiang, Y. **2024**. [*Astrophys. J.*, 960, 60](https://doi.org/10.3847/1538-4357/ad055d)
 
 ---
 
