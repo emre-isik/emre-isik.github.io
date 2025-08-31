@@ -16,7 +16,7 @@ Through numerical simulations and data analysis, I explore the physical mechanis
 
 I am serving as the elected vice president of the [Inter-Division Commission E4 "Impact of Magnetic Activity on Solar and Stellar Environments"](https://iau.org/science/scientific_bodies/commissions/E4/info/) of the [International Astronomical Union (IAU)](https://www.iau.org). 
 
-NEWS: I co-organised an ISSI Workshop at the International Space Science Institute (Bern, Switzerland), entitled [**Stellar Magnetism and its Impact on (Exo)planets**](https://workshops.issibern.ch/stellar-magnetism/). 
+NEWS: In June 2025, I co-organised an ISSI Workshop at the International Space Science Institute (Bern, Switzerland), entitled [**Stellar Magnetism and its Impact on (Exo)planets**](https://workshops.issibern.ch/stellar-magnetism/). 
 
 You can follow me on [Twitter](https://twitter.com/emre_ishik) and [ResearchGate](https://www.researchgate.net/profile/Emre-Isik), or write to me directly: isik (mps.mpg.de). 
 
@@ -50,8 +50,7 @@ My [ADS record of publications](https://ui.adsabs.harvard.edu/search/filter_data
 
 🖋️ Picture at the top of the page: detail from a [Hittite Sun Disc](https://en.wikipedia.org/wiki/Hittite_sun_disk) replica (photo: E. Işık, location: home!).
 
-🖋️ Remember [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)? Such a well-maintained and 
-good old page of daily exciting space images and explanations...
+🖋️ Check out [Astronomy Picture of the Day](https://apod.nasa.gov/apod/astropix.html)
 
 <br> 
 
