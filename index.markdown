@@ -14,6 +14,10 @@ I am Emre Işık (*pron.* 'Ishik'), currently a scientist at the [Max Planck Ins
 
 Through numerical simulations and data analysis, I explore the physical mechanisms (mostly through MHD simulations) underlying the observed magnetic activity patterns on the Sun and other Sun-like stars, in comparison with observations. When I am not wrangling with models in the theoretical world of wonders, I contribute observational studies of stellar magnetic activity. Thanks to my recent years of teaching and supervising in (astro)informatics, I enriched my toolbox with machine-learning methods. I recently worked on modelling organic reaction networks in ocean-world interiors. Click on the links below to see my research summaries. 
 
+I am serving as the elected vice president of the [Inter-Division Commission E4 "Impact of Magnetic Activity on Solar and Stellar Environments"](https://iau.org/science/scientific_bodies/commissions/E4/info/) of the [International Astronomical Union (IAU)](https://www.iau.org). 
+
+NEWS: I co-organised an ISSI Workshop at the International Space Science Institute (Bern, Switzerland), entitled [**Stellar Magnetism and its Impact on (Exo)planets**](https://workshops.issibern.ch/stellar-magnetism/). 
+
 You can follow me on [Twitter](https://twitter.com/emre_ishik) and [ResearchGate](https://www.researchgate.net/profile/Emre-Isik), or write to me directly: isik (mps.mpg.de). 
 
 ## 🔭 Research
@@ -23,11 +27,10 @@ You can follow me on [Twitter](https://twitter.com/emre_ishik) and [ResearchGate
 
 🌻[Solar magnetic activity]({% link Solar.markdown %})
 
-💦 [Astrobiology of ocean worlds (coming soon)]()
+💦 [Astrobiology of ocean worlds]({% link Astrobiology.markdown %})
 
 My [ADS record of publications](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=%20author%3A%22Isik%2C%20Emre%22&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
 
-I am serving as the elected vice president of the [Inter-Division Commission E4 "Impact of Magnetic Activity on Solar and Stellar Environments"](https://iau.org/science/scientific_bodies/commissions/E4/info/) of the [International Astronomical Union (IAU)](https://www.iau.org). 
 
 - Recent/current collaborators
     - S.K. Solanki, R.H. Cameron, [MPI f. Solar System Research](https://www.mps.mpg.de/en), A.I. Shapiro and the [SOLVe/REVEAL group](https://www2.mps.mpg.de/projects/solve/); 
