@@ -12,6 +12,18 @@ I am exploring mechanisms for emergence and transport of magnetic fields in (esp
 
 ---
 
+### Asteroseismic constraints on stellar rotation-activity relationship (2025)
+
+<img src="/assets/images/Stellar/RxRo.png" alt="RxRo.png" width="700">
+
+Understanding how stellar magnetic activity evolves with rotation and age provides key insights into the dynamos that generate magnetic fields in Sun-like stars. We assembled the largest sample of solar-like stars with high-precision ages from asteroseismology (measuring stellar oscillations to determine internal structure), measured rotation periods, and X-ray detections, which trace coronal heating by magnetic fields. By cross-matching the Kepler LEGACY sample (66 stars with the highest-quality oscillation data available until PLATO launches) with SRG/eROSITA all-sky X-ray survey observations, we identified 13 detections (filled circles in the figure). Using the Forward and Inversion COmbination procedure, we derived stellar masses, radii, and ages with unprecedented precision. We then recalibrated fundamental relationships linking X-ray activity to stellar age and rotation, finding improved agreement with theoretical predictions for most of our sample. The figure shows how the fractional X-ray luminosity varies with the Rossby number (rotation period relative to convective turnover timescale) -- a key diagnostic of dynamo efficiency. Interestingly, while our evolved late-F-type stars rotate more slowly than standard magnetic braking models predict, invoking a weakened braking regime for old stars is not strictly necessary to explain our observations. This work demonstrates how combining asteroseismology with multi-wavelength observations helps disentangle the complex connections between age, rotation, and magnetism in aging solar-type stars.
+
+**Reference**
+
+Pezzotti, C., Bétrisey, J., Buldgen, G., M. Gilfanov, I. Bikmaev, R. Sunyaev, **Işık, E.**, Gosset, E., Wright, N.J. **2025**, *A&A*, in press, [arXiv:2512.14517](https://arxiv.org/abs/2512.14517)
+
+---
+
 ### How can a young and fast Sun have low-latitude spots? (2024)
 
 <img src="/assets/images/Stellar/FT_intensification.png" alt="FT_intensification.png" width="400">

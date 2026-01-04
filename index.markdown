@@ -29,12 +29,13 @@ You can follow me on [Twitter](https://twitter.com/emre_ishik) and [ResearchGate
 
 💦 [Astrobiology of ocean worlds]({% link Astrobiology.markdown %})
 
-My [ADS record of publications](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=%20author%3A%22Isik%2C%20Emre%22&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
+My [publications (link to NASA/ADS)](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Isık%2C%20Emre%22&sort=date%20desc%2C%20bibcode%20desc). 
 
 
 - Recent/current collaborators
-    - S.K. Solanki, R.H. Cameron, [MPI f. Solar System Research](https://www.mps.mpg.de/en), A.I. Shapiro and the [SOLVe/REVEAL group](https://www2.mps.mpg.de/projects/solve/); 
+    - S.K. Solanki, N.A. Krivova, R.H. Cameron, [MPI f. Solar System Research](https://www.mps.mpg.de/en), A.I. Shapiro and the [SOLVe/REVEAL group](https://www2.mps.mpg.de/projects/solve/); 
     - [H.V. Şenavcı](http://cv.ankara.edu.tr/kisi.php?id=hvsenavci@ankara.edu.tr&deger=2), Ankara University
+    - C. Pezzotti, University of Liège, Belgium
     - M. Melwani Daswani, Jet Propulsion Laboratory, California Institute of Technology
 - Past collaborators
     - M. Schüssler (PhD advisor), D. Schmitt, V. Holzwarth, MPI for Solar System Research
