@@ -12,6 +12,19 @@ I am exploring mechanisms for emergence and transport of magnetic fields in (esp
 
 ---
 
+### Empowering surface imaging with high-cadence photometry (2025)
+
+<img src="/assets/images/Stellar/Lee25a.png" alt="Lee25a.png" width="350">
+<img src="/assets/images/Stellar/Lee25b.png" alt="Lee25b.png" width="350">
+
+Mapping the distribution of starspots across a star's surface is useful for understanding stellar magnetic fields and their connection to flare activity. Traditional Doppler imaging analyses how starspots distort spectral line profiles as the star rotates, but struggles to recover spots at low latitudes and in the less-visible hemisphere. Light-curve modeling tracks brightness variations as spots rotate in and out of view, but cannot uniquely determine spot latitudes. We present the first study combining both techniques simultaneously for the young, rapidly rotating K2-type star PW Andromedae. Using high-resolution GAOES-RV spectra from the 3.8 m Seimei telescope alongside continuous TESS photometry, we updated [**SpotDIPy**](https://github.com/EnginBahar/SpotDIPy) (Bahar et al. 2024, see below) so that it now supports joint spectroscopic and photometric inversions. The combined approach reveals significant spot features at mid-to-low latitudes and even in the southern hemisphere (**left panel**), where spectroscopy-only reconstructions fail due to weak line-profile signatures (**right panel**). Our injection-recovery tests confirm that adding high-cadence photometry dramatically improves latitude recovery and spot area estimates, especially under realistic conditions with incomplete rotational phase coverage and moderate signal-to-noise ratios. The reconstruction shows ~9.9% of the visible surface is covered by cool spots. By comparing the spot map with TESS flare detections, we find potential associations between flare timing and activity patterns, demonstrating how improved surface mapping helps localise magnetic energy release events on active stars.
+
+**Reference**
+
+Lee, S., Bahar, E., Şenavcı, H.V., **Işık, E.**, Ikuta, K., Namekata, K., Nagata, H., Kawauchi, K., Omiya, M., Izumiura, H., Tajitsu, A., Sato, B., Honda, S., Nogami, D. **2025**, *A&A*, in press, [arXiv:2511.12190](https://arxiv.org/abs/2511.12190)
+
+---
+
 ### Asteroseismic constraints on stellar rotation-activity relationship (2025)
 
 <img src="/assets/images/Stellar/RxRo.png" alt="RxRo.png" width="700">
