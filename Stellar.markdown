@@ -12,7 +12,7 @@ I am exploring mechanisms for emergence and transport of magnetic fields in (esp
 
 ---
 
-### Empowering surface imaging with high-cadence photometry (2025)
+### Boosting starspot mapping with high-cadence photometry (2025)
 
 <img src="/assets/images/Stellar/Lee25a.png" alt="Lee25a.png" width="350">
 <img src="/assets/images/Stellar/Lee25b.png" alt="Lee25b.png" width="350">
