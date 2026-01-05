@@ -29,7 +29,8 @@ You can follow me on [Twitter](https://twitter.com/emre_ishik) and [ResearchGate
 
 💦 [Astrobiology of ocean worlds]({% link Astrobiology.markdown %})
 
-My [publications (link to NASA/ADS)](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Isık%2C%20Emre%22&sort=date%20desc%2C%20bibcode%20desc). 
+My bibliography [at NASA/ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Isık%2C%20Emre%22&sort=date%20desc%2C%20bibcode%20desc) 
+and [at ADS/SciX (more complete)](https://dev.scixplorer.org/search?d=astrophysics&p=1&q=author%3A%22Isik%2C+Emre%22&sort=date+desc). 
 
 
 - Recent/current collaborators
