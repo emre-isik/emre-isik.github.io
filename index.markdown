@@ -14,9 +14,11 @@ I am Emre Işık (*pron.* 'Ishik'), currently a scientist at the [Max Planck Ins
 
 Through numerical simulations and data analysis, I explore the physical mechanisms (mostly through MHD simulations) underlying the observed magnetic activity patterns on the Sun and other Sun-like stars, in comparison with observations. When I am not wrangling with models in the theoretical world of wonders, I contribute observational studies of stellar magnetic activity. Thanks to my recent years of teaching and supervising in (astro)informatics, I enriched my toolbox with machine-learning methods. In a recent excursion to astrobiology, I worked on modelling thermodynamics of organic reaction networks in ocean-world interiors. Click on the links below to see my research summaries. 
 
+See also my [live bibliography](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Isik%2C%20Emre%22&sort=date%20desc%2C%20bibcode%20desc){:target="_blank" rel="noopener noreferrer"} 
+
 I am serving as the elected vice president of the [Inter-Division Commission E4 "Impact of Magnetic Activity on Solar and Stellar Environments"](https://iau.org/science/scientific_bodies/commissions/E4/info/) of the [International Astronomical Union (IAU)](https://www.iau.org). 
 
-NEWS: In June 2025, I co-organised an ISSI Workshop at the International Space Science Institute (Bern, Switzerland), entitled [**Stellar Magnetism and its Impact on (Exo)planets**](https://workshops.issibern.ch/stellar-magnetism/). 
+NEWS: In June 2025, I co-organised an ISSI Workshop at the International Space Science Institute (Bern, Switzerland), entitled [**Stellar Magnetism and its Impact on (Exo)planets**](https://workshops.issibern.ch/stellar-magnetism/). Nowadays I am leading a relevant book chapter on stellar magnetism, writing together with distinguished researchers in the field. 
 
 You can follow me on [Twitter](https://twitter.com/emre_ishik) and [ResearchGate](https://www.researchgate.net/profile/Emre-Isik), or write to me directly: isik (mps.mpg.de). 
 
