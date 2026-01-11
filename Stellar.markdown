@@ -10,6 +10,9 @@ permalink: /Stellar/
 
 I am exploring mechanisms for emergence and transport of magnetic fields in (especially solar-type) cool stars, in comparison with observations. Here are some results below (backward in time). 
 
+Papers in review (opens in new tab):
+- [Işık et al. 2026, _Astron. & Astrophys._, The rotation-magnetism relationship in solar-type stars. Constraining magnetic flux emergence rates](https://ui.adsabs.harvard.edu/abs/2025arXiv251218095I/abstract){:target="_blank" rel="noopener noreferrer"}
+
 ---
 
 ### Boosting starspot mapping with high-cadence photometry (2025)
