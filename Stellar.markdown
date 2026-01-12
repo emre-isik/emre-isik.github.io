@@ -15,7 +15,7 @@ Papers in review (opens in new tab):
 
 ---
 
-### Boosting starspot mapping with high-cadence photometry (2025)
+### **Boosting starspot mapping with high-cadence photometry (2025)**
 
 <img src="/assets/images/Stellar/Lee25a.png" alt="Lee25a.png" width="350">
 <img src="/assets/images/Stellar/Lee25b.png" alt="Lee25b.png" width="350">
@@ -28,7 +28,7 @@ Lee, S., Bahar, E., Şenavcı, H.V., **Işık, E.**, Ikuta, K., Namekata, K., Na
 
 ---
 
-### Asteroseismic constraints on stellar rotation-activity relationship (2025)
+### **Asteroseismic constraints on stellar rotation-activity relationship (2025)**
 
 <img src="/assets/images/Stellar/RxRo.png" alt="RxRo.png" width="700">
 
@@ -40,7 +40,7 @@ Pezzotti, C., Bétrisey, J., Buldgen, G., M. Gilfanov, I. Bikmaev, R. Sunyaev, *
 
 ---
 
-### How can a young and fast Sun have low-latitude spots? (2024)
+### **How can a young and fast Sun have low-latitude spots? (2024)**
 
 <img src="/assets/images/Stellar/FT_intensification.png" alt="FT_intensification.png" width="400">
 <img src="/assets/images/Stellar/FT_emergence_pattern.png" alt="FT_emergence_pattern.png" width="250">
@@ -53,7 +53,7 @@ How do starspots on rapidly rotating solar-type stars emerge at so low latitudes
 
 ---
 
-### Photospheric/chromospheric activity of PW And and a new Doppler imaging code: SpotDIPy (2024)
+### **Photospheric/chromospheric activity of PW And and a new Doppler imaging code: SpotDIPy (2024)**
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 250px;">
   <img src="/assets/images/Stellar/PWAnd_Doppler.png" alt="Doppler images of PW And" width="250">
@@ -73,7 +73,7 @@ Bahar, E., Şenavcı, H.V., **Işık, E.**, Hussain, G.A.J., Kochukhov, O., Mont
 
 ---
 
-### Forward modelling brightness variability in solar-type stars (2023)
+### **Forward modelling brightness variability in solar-type stars (2023)**
 
 **Application #4 of the** **`FEAT` model**
 
@@ -95,7 +95,7 @@ Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Solanki, S.K., Reinhold, T. **2023
 
 ---
 
-### How spots survive on active suns, amid facular cannibalism (2022)
+### **How spots survive on active suns, amid facular cannibalism (2022)**
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 450px;">
   <img src="/assets/images/Stellar/Screenshot_2022-12-02_at_17.29.28.png" alt="Description of image 1" width="450">
@@ -112,7 +112,7 @@ Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Sowmya, K., Solanki, S.K., Krivova
 
 ---
 
-### Predicting astrometric jitter for Sun-like stars: fast-rotating suns (2022)
+### **Predicting astrometric jitter for Sun-like stars: fast-rotating suns (2022)**
 
 **Application #3 of the** **`FEAT` model**
 
@@ -138,7 +138,7 @@ Sowmya, K., Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Krivova, N.A., Solanki
 
 ---
 
-### Predicting astrometric jitter for Sun-like stars: effects of inclination, metallicity, and active-region nesting (2021)
+### **Predicting astrometric jitter for Sun-like stars: effects of inclination, metallicity, and active-region nesting (2021)**
 
 **Application #2 of the** **`FEAT` model**
 
@@ -155,7 +155,7 @@ Sowmya, K., Nèmec, N.-E., Shapiro, A.I., Işık, E., Witzke, V., Mints, A., Kri
 
 ---
 
-### Starspot distribution of the young solar analogue star EK Draconis (2021)
+### **Starspot distribution of the young solar analogue star EK Draconis (2021)**
 
 **The first application of the `FEAT` model**
 
@@ -172,7 +172,7 @@ Using the FEAT framework, we set up surface brightness distribution snapshots of
 
 ---
 
-### Why is it so hard to detect rotational signals of Sun-like stars? (2021)
+### **Why is it so hard to detect rotational signals of Sun-like stars? (2021)**
 
 ![Rotational signals](/assets/images/Stellar/Screenshot_2022-12-02_at_14.09.17.png)
 
@@ -184,7 +184,7 @@ Reinhold, T., Shapiro, A.I., Witzke, V.,Nèmec, N.-E., **Işık, E.**, Solanki, 
 
 ---
 
-### What causes strong brightness variations in Sun-like stars?  (2020)
+### **What causes strong brightness variations in Sun-like stars?  (2020)**
 
 ![nesting_cartoon.png](/assets/images/Stellar/nesting_cartoon.png)
 
@@ -204,7 +204,7 @@ Işık, E., Shapiro, A.I., Solanki, S.K., Krivova, N.A. 2020 [*Astrophys. J. Let
 
 ---
 
-### How would the Sun "as a star" look like if observed by *Kepler* or *Gaia*? (2020)
+### **How would the Sun "as a star" look like if observed by *Kepler* or *Gaia*? (2020)**
 
 ![Screenshot 2021-11-06 at 21.40.42.png](/assets/images/Stellar/Screenshot_2021-11-06_at_21.40.42.png)
 

@@ -15,7 +15,9 @@ Papers in review (opens in new tab):
 - [Karapınar, N., Işık, E., Krivova, N.A., Şenavcı, H.V. 2026, _Sol. Phys._, Quantifying sunspot group nesting with density-based unsupervised clustering](https://ui.adsabs.harvard.edu/abs/2025arXiv251217364K/abstract){:target="_blank" rel="noopener noreferrer"}
 - Krivova, N.A., Chatzistergos, T., Kazachenko. M., Işık, E. 2026, _Phil. Trans. Roy. Soc. A_, Empirical flare energy limits for the largest historical sunspots
 
-### How would the Sun "as a star" look like if observed by *Kepler* or *Gaia*? (2020)
+---
+
+### **How would the Sun "as a star" look like if observed by *Kepler* or *Gaia*? (2020)**
 
 ![Sun as a star](/assets/images/Stellar/Screenshot_2021-11-06_at_21.40.42.png)
 

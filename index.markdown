@@ -14,7 +14,7 @@ I am Emre Işık (*pron.* 'Ishik'), currently a scientist at the [Max Planck Ins
 
 Through numerical simulations and data analysis, I explore the physical mechanisms (mostly through MHD simulations) underlying the observed magnetic activity patterns on the Sun and other Sun-like stars, in comparison with observations. When I am not wrangling with models in the theoretical world of wonders, I contribute observational studies of stellar magnetic activity. Thanks to my recent years of teaching and supervising in (astro)informatics, I enriched my toolbox with machine-learning methods. In a recent excursion to astrobiology, I worked on modelling thermodynamics of organic reaction networks in ocean-world interiors. Click on the links below to see my research summaries. 
 
-See also my [live bibliography](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Isik%2C%20Emre%22&sort=date%20desc%2C%20bibcode%20desc){:target="_blank" rel="noopener noreferrer"} 
+📚 See also my [live bibliography](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Isik%2C%20Emre%22&sort=date%20desc%2C%20bibcode%20desc){:target="_blank" rel="noopener noreferrer"}. 
 
 I am serving as the elected vice president of the [Inter-Division Commission E4 "Impact of Magnetic Activity on Solar and Stellar Environments"](https://iau.org/science/scientific_bodies/commissions/E4/info/) of the [International Astronomical Union (IAU)](https://www.iau.org). 
 
@@ -40,6 +40,7 @@ and [at SciX by ADS](https://scixplorer.org/search?d=astrophysics&p=1&q=author%3
 - Recent/current collaborators
     - S.K. Solanki, N.A. Krivova, R.H. Cameron, [MPI f. Solar System Research](https://www.mps.mpg.de/en), A.I. Shapiro and the [SOLVe/REVEAL group](https://www2.mps.mpg.de/projects/solve/); 
     - [H.V. Şenavcı](http://cv.ankara.edu.tr/kisi.php?id=hvsenavci@ankara.edu.tr&deger=2), Ankara University
+    - N.-E. Nemec, ICE, CSIC, Barcelona, Spain
     - C. Pezzotti, University of Liège, Belgium
     - M. Melwani Daswani, Jet Propulsion Laboratory, California Institute of Technology
 - Past collaborators
@@ -53,6 +54,7 @@ and [at SciX by ADS](https://scixplorer.org/search?d=astrophysics&p=1&q=author%3
 🧑🏻‍🏫 [Courses]({% link Teaching.markdown %}) I gave along my career
 
 <br>
+---
 
 🖋️ Picture at the top of the page: detail from a [Hittite Sun Disc](https://en.wikipedia.org/wiki/Hittite_sun_disk) replica (photo: E. Işık, location: home!).
 
