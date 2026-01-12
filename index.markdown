@@ -18,7 +18,9 @@ See also my [live bibliography](https://ui.adsabs.harvard.edu/search/p_=0&q=%20a
 
 I am serving as the elected vice president of the [Inter-Division Commission E4 "Impact of Magnetic Activity on Solar and Stellar Environments"](https://iau.org/science/scientific_bodies/commissions/E4/info/) of the [International Astronomical Union (IAU)](https://www.iau.org). 
 
-NEWS: In June 2025, I co-organised an ISSI Workshop at the International Space Science Institute (Bern, Switzerland), entitled [**Stellar Magnetism and its Impact on (Exo)planets**](https://workshops.issibern.ch/stellar-magnetism/). Nowadays I am leading a relevant book chapter on stellar magnetism, writing together with distinguished researchers in the field. 
+🚨 **NEWS** -- In June 2025, I co-organised an ISSI Workshop at the International Space Science Institute (Bern, Switzerland), entitled [**Stellar Magnetism and its Impact on (Exo)planets**](https://workshops.issibern.ch/stellar-magnetism/). Nowadays I am leading a book chapter on stellar magnetic activity. 
+
+🚨 **NEWS** (12.01.2026) -- The Turkish-Japanese joint research project **Exploring The Connection Between Chromospheric Activity and Starspots in Late-Type Active Stars: Implications for Dynamo Evolution** (2026-2028) has been awarded funding from TUBITAK and JSPS! I am a consultant and collaborator in the project, co-led by H.V. Şenavcı (Ankara University) and D. Nogami (Kyoto University).
 
 You can follow me on [Twitter](https://twitter.com/emre_ishik) and [ResearchGate](https://www.researchgate.net/profile/Emre-Isik), or write to me directly: isik (mps.mpg.de). 
 
