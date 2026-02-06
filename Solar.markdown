@@ -9,6 +9,10 @@ permalink: /Solar/
 </div>
 <br>
 
+<style>
+.figure-caption { font-size: 0.92em; font-style: italic; color: #666; margin-top: 6px; }
+hr { margin: 2.5em 0; border: 0; border-top: 1px solid #181717; } 
+</style>
 I am working on how the magnetic flux is generated in the solar interior (solar dynamo) and how it finds its way to the surface (flux emergence), as well as studying the Sun in the stellar context. Here are some results below (backward in time). 
 
 Papers in review (opens in new tab):
@@ -16,6 +20,33 @@ Papers in review (opens in new tab):
 - Krivova, N.A., Chatzistergos, T., Kazachenko. M., Işık, E. 2026, _Phil. Trans. Roy. Soc. A_, Empirical flare energy limits for the largest historical sunspots
 
 ---
+
+### **Quantifying sunspot group nesting by unsupervised machine learning**
+
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 400px;">
+  <img src="/assets/images/Solar/lontime_16S.png" alt="nesting" width="400">
+  <p class="figure-caption">Emergence (first-observed) longitudes of sunspot groups between +10-15˚ latitudes through Solar Cycle 21. Coloured circles show members of nests centred at yellow crosses, the grey crosses show non-members (outlying groups). Grayscale contours show area-weighted density calculated by KDE with Gaussian kernel. The estimated nesting degree on this window is 72% </p>
+</div>
+
+Sunspot groups do not emerge independently of each other. Instead, they cluster in space and time, forming structures called "nests" that persist for multiple solar rotations. Using machine learning techniques (kernel density estimation and DBSCAN clustering), we quantified this nesting behaviour across 151 years of sunspot observations from RGO (1874-1976) and KMAS (1955-2025) catalogues.
+
+<div style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px;">
+  <img src="/assets/images/Solar/area_correlation_kmas.png" alt="nesting" width="400">
+  <p class="figure-caption">Nesting degree vs. solar activity level for KMAS datasets. Strong positive correlation demonstrates enhanced magnetic organisation during periods with stronger activity. Binned averages shown with error bars.</p>
+</div>
+
+
+About 60% of all sunspot groups emerge within nests, with strongest nesting degrees at mid-latitudes (10-20°) where toroidal flux emergence peaks. The nesting degree correlates positively with solar cycle strength (see figure to the right). Critically, this correlation strengthens when small groups are excluded, proving it represents genuine spatial organisation rather than statistical artefacts from abundant small groups during active periods.
+
+The analysis reveals hierarchical structure: small groups cluster strongly around large active regions (D≈0.55), while large groups themselves show reduced but persistent clustering (D≈0.25). Inter-nest spacing contracts from ~200-500 Mm at solar minimum to ~60-100 Mm at maximum, approaching typical sunspot dimensions. This quantitative framework provides new constraints on solar dynamo models and benchmarks for stellar activity studies.
+
+**Reference**
+
+Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V., Solar Physics, revision resubmitted, arXiv preprint (2026) 
+
+
+---
+
 
 ### **How would the Sun "as a star" look like if observed by *Kepler* or *Gaia*? (2020)**
 
