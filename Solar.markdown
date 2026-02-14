@@ -16,7 +16,6 @@ hr { margin: 2.5em 0; border: 0; border-top: 1px solid #181717; }
 I am working on how the magnetic flux is generated in the solar interior (solar dynamo) and how it finds its way to the surface (flux emergence), as well as studying the Sun in the stellar context. Here are some results below (backward in time). 
 
 Papers in review (opens in new tab):
-- [Karapınar, N., Işık, E., Krivova, N.A., Şenavcı, H.V. 2026, _Sol. Phys._, Quantifying sunspot group nesting with density-based unsupervised clustering](https://ui.adsabs.harvard.edu/abs/2025arXiv251217364K/abstract){:target="_blank" rel="noopener noreferrer"}
 - Krivova, N.A., Chatzistergos, T., Kazachenko. M., Işık, E. 2026, _Phil. Trans. Roy. Soc. A_, Empirical flare energy limits for the largest historical sunspots
 
 ---
@@ -42,7 +41,7 @@ The analysis reveals hierarchical structure: small groups cluster strongly aroun
 
 **Reference**
 
-Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V., Solar Physics, revision resubmitted, arXiv preprint (2026) 
+Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V., accepted to _Sol. Phys._, [arXiv preprint](https://ui.adsabs.harvard.edu/abs/2025arXiv251217364K/abstract){:target="_blank" rel="noopener noreferrer"} (2026) 
 
 
 ---
