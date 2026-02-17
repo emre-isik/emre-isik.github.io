@@ -20,7 +20,7 @@ Papers in review (opens in new tab):
 
 ---
 
-### **Quantifying sunspot group nesting by unsupervised machine learning**
+### **Quantifying sunspot group nesting by unsupervised machine learning (2025)**
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 400px;">
   <img src="/assets/images/Solar/lontime_16S.png" alt="nesting" width="400">
