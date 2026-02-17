@@ -8,6 +8,11 @@ permalink: /Stellar/
 </div>
 <br>
 
+<style>
+.figure-caption { font-size: 0.92em; font-style: italic; color: #666; margin-top: 6px; }
+hr { margin: 2.5em 0; border: 0; border-top: 1px solid #181717; } 
+</style>
+
 I am exploring mechanisms for emergence and transport of magnetic fields in (especially solar-type) cool stars, in comparison with observations. Here are some results below (backward in time). 
 
 Papers in review (opens in new tab):
@@ -24,7 +29,7 @@ Mapping the distribution of starspots across a star's surface is useful for unde
 
 **Reference**
 
-Lee, S., Bahar, E., Şenavcı, H.V., **Işık, E.**, Ikuta, K., Namekata, K., Nagata, H., Kawauchi, K., Omiya, M., Izumiura, H., Tajitsu, A., Sato, B., Honda, S., Nogami, D. **2025**, *A&A*, in press, [arXiv:2511.12190](https://arxiv.org/abs/2511.12190)
+Lee, S., Bahar, E., Şenavcı, H.V., **Işık, E.**, Ikuta, K., Namekata, K., Nagata, H., Kawauchi, K., Omiya, M., Izumiura, H., Tajitsu, A., Sato, B., Honda, S., Nogami, D. **2026**, [*Astron. & Astrophys. (forthcoming)*](https://doi.org/10.1051/0004-6361/202556616)
 
 ---
 
@@ -36,7 +41,7 @@ Understanding how stellar magnetic activity evolves with rotation and age provid
 
 **Reference**
 
-Pezzotti, C., Bétrisey, J., Buldgen, G., M. Gilfanov, I. Bikmaev, R. Sunyaev, **Işık, E.**, Gosset, E., Wright, N.J. **2025**, *A&A*, in press, [arXiv:2512.14517](https://arxiv.org/abs/2512.14517)
+Pezzotti, C., Bétrisey, J., Buldgen, G., M. Gilfanov, I. Bikmaev, R. Sunyaev, **Işık, E.**, Gosset, E., Wright, N.J. **2026**, [*Astron. & Astrophys. 706, A257*](https://doi.org/10.1051/0004-6361/202557390)
 
 ---
 
