@@ -15,8 +15,8 @@ hr { margin: 2.5em 0; border: 0; border-top: 1px solid #181717; }
 </style>
 I am working on how the magnetic flux is generated in the solar interior (solar dynamo) and how it finds its way to the surface (flux emergence), as well as studying the Sun in the stellar context. Here are some results below (backward in time). 
 
-Papers in review (opens in new tab):
-- Krivova, N.A., Chatzistergos, T., Kazachenko. M., Işık, E. 2026, _Phil. Trans. Roy. Soc. A_, Empirical flare energy limits for the largest historical sunspots
+New papers (recently accepted):
+- Krivova, N.A., Chatzistergos, T., Kazachenko. M., **Işık, E.** 2026, _Phil. Trans. Roy. Soc. A_, Empirical flare energy limits for the largest historical sunspots
 
 ---
 
@@ -27,7 +27,7 @@ Papers in review (opens in new tab):
   <p class="figure-caption">Emergence (first-observed) longitudes of sunspot groups between +10-15˚ latitudes through Solar Cycle 21. Coloured circles show members of nests centred at yellow crosses, the grey crosses show non-members (outlying groups). Grayscale contours show area-weighted density calculated by KDE with Gaussian kernel. The estimated nesting degree on this window is 72% </p>
 </div>
 
-Sunspot groups do not emerge independently of each other. Instead, they cluster in space and time, forming structures called "nests" that persist for multiple solar rotations. Using machine learning techniques (kernel density estimation and DBSCAN clustering), we quantified this nesting behaviour across 151 years of sunspot observations from RGO (1874-1976) and KMAS (1955-2025) catalogues.
+Sunspot groups do not emerge independently of each other. Instead, they cluster in space and time, forming structures called "nests" that persist for multiple solar rotations. Using machine learning techniques (kernel density estimation and DBSCAN clustering), we quantified this nesting behaviour across 151 years of sunspot observations from RGO (1874-1976) and KMAS (1955-2025) catalogues. This is a thesis work of my PhD student, Nurdan Karapınar at Ankara University. 
 
 <div style="float: right; margin-left: 20px; margin-bottom: 10px; width: 300px;">
   <img src="/assets/images/Solar/area_correlation_kmas.png" alt="nesting" width="400">
@@ -39,9 +39,11 @@ About 60% of all sunspot groups emerge within nests, with strongest nesting degr
 
 The analysis reveals hierarchical structure: small groups cluster strongly around large active regions (D≈0.55), while large groups themselves show reduced but persistent clustering (D≈0.25). Inter-nest spacing contracts from ~200-500 Mm at solar minimum to ~60-100 Mm at maximum, approaching typical sunspot dimensions. This quantitative framework provides new constraints on solar dynamo models and benchmarks for stellar activity studies.
 
-**Reference**
+**References**
 
-Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V., accepted to _Sol. Phys._, [arXiv preprint](https://ui.adsabs.harvard.edu/abs/2025arXiv251217364K/abstract){:target="_blank" rel="noopener noreferrer"} (2026) 
+Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V., [_Sol. Phys._ 301, 34](https://doi.org/10.1007/s11207-026-02632-2){:target="_blank" rel="noopener noreferrer"} (2026) 
+
+[Plain-language and technical summaries (Gist.Science)](https://gist.science/paper/2512.17364#gist) — **Disclaimer:** this is an AI-generated popularisation; refer to the original paper for accurate details.
 
 
 ---
