@@ -39,11 +39,11 @@ About 60% of all sunspot groups emerge within nests, with strongest nesting degr
 
 The analysis reveals hierarchical structure: small groups cluster strongly around large active regions (D≈0.55), while large groups themselves show reduced but persistent clustering (D≈0.25). Inter-nest spacing contracts from ~200-500 Mm at solar minimum to ~60-100 Mm at maximum, approaching typical sunspot dimensions. This quantitative framework provides new constraints on solar dynamo models and benchmarks for stellar activity studies.
 
-**References**
+**Reference**
 
 Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V., [_Sol. Phys._ 301, 34](https://doi.org/10.1007/s11207-026-02632-2){:target="_blank" rel="noopener noreferrer"} (2026) 
 
-[Plain-language and technical summaries (Gist.Science)](https://gist.science/paper/2512.17364#gist) — **Disclaimer:** this is an AI-generated popularisation; refer to the original paper for accurate details.
+[Plain-language and technical summaries (Gist.Science)](https://gist.science/paper/2512.17364#gist) — **Disclaimer:** Gist.Science content is AI-generated; refer to the original paper for accurate details.
 
 
 ---

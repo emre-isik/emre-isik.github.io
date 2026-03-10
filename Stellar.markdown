@@ -31,7 +31,7 @@ Mapping the distribution of starspots across a star's surface is useful for unde
 
 Lee, S., Bahar, E., Şenavcı, H.V., **Işık, E.**, Ikuta, K., Namekata, K., Nagata, H., Kawauchi, K., Omiya, M., Izumiura, H., Tajitsu, A., Sato, B., Honda, S., Nogami, D. **2026**, [*Astron. & Astrophys.* 707, A24](https://doi.org/10.1051/0004-6361/202556616)
 
-[Plain-language and technical summaries (Gist.Science)](https://gist.science/paper/2511.12190#gist) — **Disclaimer:** this is an AI-generated popularisation; refer to the original paper for accurate details. 
+[Plain-language and technical summaries (Gist.Science)](https://gist.science/paper/2511.12190#gist) — **Disclaimer:** Gist.Science content is AI-generated; refer to the original paper for accurate details. 
 
 ---
 

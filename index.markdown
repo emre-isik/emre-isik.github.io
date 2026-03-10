@@ -40,12 +40,13 @@ and [at SciX by ADS](https://scixplorer.org/search?d=astrophysics&p=1&q=author%3
 - Recent/current collaborators
     - S.K. Solanki, N.A. Krivova, R.H. Cameron, [MPI f. Solar System Research](https://www.mps.mpg.de/en), A.I. Shapiro and the [SOLVe/REVEAL group](https://www2.mps.mpg.de/projects/solve/); 
     - [H.V. Şenavcı](http://cv.ankara.edu.tr/kisi.php?id=hvsenavci@ankara.edu.tr&deger=2), Ankara University
+    - S. Lee, K. Namekata, K. Ikuta, D. Nogami; Kyoto University, Japan
     - N.-E. Nemec, ICE, CSIC, Barcelona, Spain
     - C. Pezzotti, University of Liège, Belgium
-    - M. Melwani Daswani, Jet Propulsion Laboratory, California Institute of Technology
 - Past collaborators
     - M. Schüssler (PhD advisor), D. Schmitt, V. Holzwarth, MPI for Solar System Research
     - J. Jiang, Beihang University, China
+    - M. Melwani Daswani, Jet Propulsion Laboratory, California Institute of Technology
 
 ## 🏛️ Teaching
 
