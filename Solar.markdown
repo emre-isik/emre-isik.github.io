@@ -16,7 +16,7 @@ hr { margin: 2.5em 0; border: 0; border-top: 1px solid #181717; }
 I am working on how the magnetic flux is generated in the solar interior (solar dynamo) and how it finds its way to the surface (flux emergence), as well as studying the Sun in the stellar context. Here are some results below (backward in time). 
 
 New papers (recently accepted):
-- Krivova, N.A., Chatzistergos, T., Kazachenko. M., **Işık, E.** 2026, _Phil. Trans. Roy. Soc. A_, Empirical flare energy limits for the largest historical sunspots
+- Krivova, N.A., Chatzistergos, T., Kazachenko. M., **Işık, E.** 2026, _Phil. Trans. Roy. Soc. A_, [arXiv preprint](https://arxiv.org/abs/2603.09474), Empirical flare energy limits for the largest historical sunspots
 
 ---
 
