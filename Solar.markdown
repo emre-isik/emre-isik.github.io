@@ -41,7 +41,7 @@ The analysis reveals hierarchical structure: small groups cluster strongly aroun
 
 **Reference**
 
-Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V., [_Sol. Phys._ 301, 34](https://doi.org/10.1007/s11207-026-02632-2){:target="_blank" rel="noopener noreferrer"} (2026) 
+Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V. **2026**, Quantifying sunspot group nesting with density-based unsupervised clustering, [*Sol. Phys.* 301, 34](https://doi.org/10.1007/s11207-026-02632-2){:target="_blank" rel="noopener noreferrer"} 
 
 [Plain-language and technical summaries (Gist.Science)](https://gist.science/paper/2512.17364#gist) — **Disclaimer:** Gist.Science content is AI-generated; refer to the original paper for accurate details.
 
@@ -57,7 +57,7 @@ To better understand brightness variations of solar-type stars, it is instructiv
 
 **Reference**
 
-Nèmec, N.-E., **Işık, E.**, Shapiro, A.I., Solanki, S.K., Krivova, N.A., Unruh, Y. **2020**, [*Astron. & Astrophys. 638, A56*](https://doi.org/10.1051/0004-6361/202038054)
+Nèmec, N.-E., **Işık, E.**, Shapiro, A.I., Solanki, S.K., Krivova, N.A., Unruh, Y. **2020**, Connecting measurements of solar and stellar brightness variations, [*Astron. & Astrophys.* 638, A56](https://doi.org/10.1051/0004-6361/202038054)
 
 ---
 
@@ -71,7 +71,7 @@ The average tilt angle of sunspot groups emerging throughout the solar cycle det
 
 **Reference**
 
-**Işık, E.** 2015, [*Astrophys. J. Lett., 813, L13*](http://dx.doi.org/10.1088/2041-8205/813/1/L13)
+**Işık, E.** **2015**, A mechanism for the dependence of sunspot group tilt angles on cycle strength, [*Astrophys. J. Lett.* 813, L13](http://dx.doi.org/10.1088/2041-8205/813/1/L13)
 
 ---
 
@@ -83,7 +83,7 @@ We have discovered (as a group led by R. Cameron from MPS) that near-equatorial 
 
 **Reference**
 
-Cameron, R H, Dasi-Espuig, M, Jiang, J, **Işık, E.**, Schmitt, D, Schüssler, M, 2013, [*Astron. & Astrophys.* 557, A141](http://adsabs.harvard.edu/abs/2013A&A...557A.141C)
+Cameron, R.H., Dasi-Espuig, M., Jiang, J., **Işık, E.**, Schmitt, D., Schüssler, M. **2013**, Limits to solar cycle predictability: Cross-equatorial flux plumes, [*Astron. & Astrophys.* 557, A141](http://adsabs.harvard.edu/abs/2013A&A...557A.141C)
 
 ---
 
@@ -97,7 +97,7 @@ Motivated by the results of the paper in 2012 (see below), we have run our flux 
 
 **Reference**
 
-Jiang, J, Cameron, R H, Schmitt, D, **Işık, E.** 2013, [*Astron. & Astrophys.* 553, A128](http://www.aanda.org/articles/aa/abs/2013/05/aa21145-13/aa21145-13.html)
+Jiang, J., Cameron, R.H., Schmitt, D., **Işık, E.** **2013**, Modeling solar cycles 15–21 using a flux transport dynamo, [*Astron. & Astrophys.* 553, A128](http://www.aanda.org/articles/aa/abs/2013/05/aa21145-13/aa21145-13.html)
 
 ---
 
@@ -111,7 +111,7 @@ The surface flux transport model is currently the most successful tool in provid
 
 **Reference**
 
-Cameron, R.H., Schmitt, D., Jiang, J., **Işık, E.** 2012, [*Astron. & Astrophys.* 542, A127](http://www.aanda.org/index.php?option=com_article&access=standard&Itemid=129&url=/articles/aa/abs/2012/06/aa18906-12/aa18906-12.html)
+Cameron, R.H., Schmitt, D., Jiang, J., **Işık, E.** **2012**, Surface flux evolution constraints for flux transport dynamos, [*Astron. & Astrophys.* 542, A127](http://www.aanda.org/index.php?option=com_article&access=standard&Itemid=129&url=/articles/aa/abs/2012/06/aa18906-12/aa18906-12.html)
 
 ---
 
@@ -123,7 +123,7 @@ With Jie Jiang and the MPS Solar MHD group, we have studied the effect of coolin
 
 **Reference**
 
-Jiang, J, **Işık, E.**, Cameron, R H, Schmitt, D, Schüssler, M, 2010, [*Astrophys. J.*, 717, 597](http://iopscience.iop.org/article/10.1088/0004-637X/717/1/597/meta)
+Jiang, J., **Işık, E.**, Cameron, R.H., Schmitt, D., Schüssler, M. **2010**, The effect of activity-related meridional flow modulation on the strength of the solar polar magnetic field, [*Astrophys. J.* 717, 597](http://iopscience.iop.org/article/10.1088/0004-637X/717/1/597/meta)
 
 ---
 
@@ -135,6 +135,6 @@ How significant are the effects of longitudinal and perpendicular flows on the e
 
 **Reference**
 
-**Işık, E.**, Holzwarth, V H, 2009, [*Astron. & Astrophys.*, 508, 979](http://dx.doi.org/10.1051/0004-6361/200912816)
+**Işık, E.**, Holzwarth, V.H. **2009**, Flow instabilities in magnetic flux tubes. IV. Flux storage in the solar overshoot region, [*Astron. & Astrophys.* 508, 979](http://dx.doi.org/10.1051/0004-6361/200912816)
 
 ---

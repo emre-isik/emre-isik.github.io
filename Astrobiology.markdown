@@ -25,7 +25,7 @@ In an interdisciplinary collaboration involving JPL/Caltech and Istanbul Technic
 
 **Reference**
 
-Işık, S., Melwani Daswani, M., **Işık, E.**, Weber, J., Olgun Kiyak, N. **2025**, [*ACS Earth & Space Chem.* 9 (6), 1392](https://doi.org/10.1021/acsearthspacechem.4c00371)
+Işık, S., Melwani Daswani, M., **Işık, E.**, Weber, J., Olgun Kiyak, N. **2025**, Thermodynamic Constraints on the Citric Acid Cycle and Related Reactions in Ocean World Interiors, [*ACS Earth & Space Chem.* 9 (6), 1392](https://doi.org/10.1021/acsearthspacechem.4c00371)
 
 **Press Release at Istanbul Technical University**
 

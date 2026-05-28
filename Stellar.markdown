@@ -30,7 +30,7 @@ A complication is that metallicity and temperature introduce significant scatter
 
 **Reference**
 
-**Işık, E.**, Solanki, S.K., Krivova, N.A., Shapiro, A.I. **2026**, [*Astron. & Astrophys.*, accepted — The rotation-magnetism relationship in solar-type stars: Constraining magnetic flux emergence rates](https://ui.adsabs.harvard.edu/abs/2025arXiv251218095I/abstract)
+**Işık, E.**, Solanki, S.K., Krivova, N.A., Shapiro, A.I. **2026**, The rotation-magnetism relationship in solar-type stars: Constraining magnetic flux emergence rates, [*Astron. & Astrophys.*, accepted](https://ui.adsabs.harvard.edu/abs/2025arXiv251218095I/abstract)
 
 ---
 
@@ -43,7 +43,7 @@ Mapping the distribution of starspots across a star's surface is useful for unde
 
 **Reference**
 
-Lee, S., Bahar, E., Şenavcı, H.V., **Işık, E.**, Ikuta, K., Namekata, K., Nagata, H., Kawauchi, K., Omiya, M., Izumiura, H., Tajitsu, A., Sato, B., Honda, S., Nogami, D. **2026**, [*Astron. & Astrophys.* 707, A24](https://doi.org/10.1051/0004-6361/202556616)
+Lee, S., Bahar, E., Şenavcı, H.V., **Işık, E.**, Ikuta, K., Namekata, K., Nagata, H., Kawauchi, K., Omiya, M., Izumiura, H., Tajitsu, A., Sato, B., Honda, S., Nogami, D. **2026**, Doppler imaging combined with high-cadence photometry. I. Revisiting the surface of a pre-main-sequence flare star PW Andromedae, [*Astron. & Astrophys.* 707, A24](https://doi.org/10.1051/0004-6361/202556616)
 
 [Plain-language and technical summaries (Gist.Science)](https://gist.science/paper/2511.12190#gist) — **Disclaimer:** Gist.Science content is AI-generated; refer to the original paper for accurate details. 
 
@@ -57,7 +57,7 @@ Understanding how stellar magnetic activity evolves with rotation and age provid
 
 **Reference**
 
-Pezzotti, C., Bétrisey, J., Buldgen, G., M. Gilfanov, I. Bikmaev, R. Sunyaev, **Işık, E.**, Gosset, E., Wright, N.J. **2026**, [*Astron. & Astrophys. 706, A257*](https://doi.org/10.1051/0004-6361/202557390)
+Pezzotti, C., Bétrisey, J., Buldgen, G., Gilfanov, M., Bikmaev, I., Sunyaev, R., **Işık, E.**, Gosset, E., Wright, N.J. **2026**, The stellar activity-rotation-age relationship under the lens of asteroseismology, [*Astron. & Astrophys.* 706, A257](https://doi.org/10.1051/0004-6361/202557390)
 
 ---
 
@@ -70,7 +70,7 @@ How do starspots on rapidly rotating solar-type stars emerge at so low latitudes
 
 **Reference**
 
-**Işık, E.**, Solanki, S.K., Cameron, R.H., Shapiro, A.I. **2024**, [*Astrophys. J.* 976, 215](https://doi.org/10.3847/1538-4357/ad8881)
+**Işık, E.**, Solanki, S.K., Cameron, R.H., Shapiro, A.I. **2024**, Low-latitude Magnetic Flux Emergence on Rapidly Rotating Solar-type Stars, [*Astrophys. J.* 976, 215](https://doi.org/10.3847/1538-4357/ad8881)
 
 ---
 
@@ -90,7 +90,7 @@ We focused on three activity proxies of the young K2V star PW Andromedae rotatin
 <br> <br> <br>
 **Reference**
 
-Bahar, E., Şenavcı, H.V., **Işık, E.**, Hussain, G.A.J., Kochukhov, O., Montes, D, Xiang, Y. **2024**. [*Astrophys. J.*, 960, 60](https://doi.org/10.3847/1538-4357/ad055d)
+Bahar, E., Şenavcı, H.V., **Işık, E.**, Hussain, G.A.J., Kochukhov, O., Montes, D., Xiang, Y. **2024**, First Chromospheric Activity and Doppler Imaging Study of PW And Using a New Doppler Imaging Code: SpotDIPy, [*Astrophys. J.* 960, 60](https://doi.org/10.3847/1538-4357/ad055d)
 
 ---
 
@@ -112,7 +112,7 @@ Starspots and faculae are magnetic structures. They are responsible for the obse
 <br> <br> <br> <br> <br> <br>
 **Reference**
 
-Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Solanki, S.K., Reinhold, T. **2023**. [*Astronomy & Astrophysics*, 672,  A138](https://doi.org/10.1051/0004-6361/202244412)
+Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Solanki, S.K., Reinhold, T. **2023**, Forward modelling of brightness variations in Sun-like stars. II. Light curves and variability, [*Astron. & Astrophys.* 672, A138](https://doi.org/10.1051/0004-6361/202244412)
 
 ---
 
@@ -129,7 +129,7 @@ Solar-type stars undergo a change in their patterns of variability, as they get 
 
 **Reference**
 
-Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Sowmya, K., Solanki, S.K., Krivova, N.A., Cameron, R.H., Gizon, L. **2022**, [*Astrophys. J. Lett.* 934, L23](https://doi.org/10.3847/2041-8213/ac8155)
+Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Sowmya, K., Solanki, S.K., Krivova, N.A., Cameron, R.H., Gizon, L. **2022**, Faculae cancel out on the surfaces of active suns, [*Astrophys. J. Lett.* 934, L23](https://doi.org/10.3847/2041-8213/ac8155)
 
 ---
 
@@ -155,7 +155,7 @@ Young suns that rotate much faster than our Sun are interesting objects. They ar
 
 **Reference**
 
-Sowmya, K., Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Krivova, N.A., Solanki, S.K. **2022**, [*Astrophys. J.* 934, 146](https://doi.org/10.3847/1538-4357/ac79b3)
+Sowmya, K., Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Krivova, N.A., Solanki, S.K. **2022**, Predictions of astrometric jitter for Sun-like stars. III. Fast rotators, [*Astrophys. J.* 934, 146](https://doi.org/10.3847/1538-4357/ac79b3)
 
 ---
 
@@ -172,7 +172,7 @@ It is estimated that over 20,000 exoplanets are awaiting discovery, thanks to hi
 
 **Reference**
 
-Sowmya, K., Nèmec, N.-E., Shapiro, A.I., Işık, E., Witzke, V., Mints, A., Krivova, N.A., Solanki, S.K. **2021**, [*Astrophys. J.* 919, 94](https://doi.org/10.3847/1538-4357/ac111b)
+Sowmya, K., Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Witzke, V., Mints, A., Krivova, N.A., Solanki, S.K. **2021**, Predictions of astrometric jitter for Sun-like stars. II. Dependence on inclination, metallicity, and active-region nesting, [*Astrophys. J.* 919, 94](https://doi.org/10.3847/1538-4357/ac111b)
 
 ---
 
@@ -189,7 +189,7 @@ Using the FEAT framework, we set up surface brightness distribution snapshots of
 
 **Reference**
 
-Şenavcı, H.V., Kılıçoğlu, T., **Işık, E.**, Hussain, G.A.J., Montes, D., Bahar, E., Solanki, S.K. **2021**, [*Mon. Not. Roy. Astron. Soc.* 502, 3343](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3343S/abstract)
+Şenavcı, H.V., Kılıçoğlu, T., **Işık, E.**, Hussain, G.A.J., Montes, D., Bahar, E., Solanki, S.K. **2021**, Observing and modelling the young solar analogue EK Draconis: starspot distribution, elemental abundances, and evolutionary status, [*Mon. Not. Roy. Astron. Soc.* 502, 3343](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3343S/abstract)
 
 ---
 
@@ -201,7 +201,7 @@ Early G-type stars with near-solar rotation periods, such as our Sun, are underr
 
 **Reference**
 
-Reinhold, T., Shapiro, A.I., Witzke, V.,Nèmec, N.-E., **Işık, E.**, Solanki, S.K. **2021**, [*Astrophys. J. Lett. 908, L21*](https://doi.org/10.3847/2041-8213/abde46)
+Reinhold, T., Shapiro, A.I., Witzke, V., Nèmec, N.-E., **Işık, E.**, Solanki, S.K. **2021**, Where have all the solar-like stars gone? Rotation period detectability at various inclinations and metallicities, [*Astrophys. J. Lett.* 908, L21](https://doi.org/10.3847/2041-8213/abde46)
 
 ---
 
@@ -213,7 +213,7 @@ We designed numerical experiments of stellar variability in the rotational times
 
 **Reference**
 
-Işık, E., Shapiro, A.I., Solanki, S.K., Krivova, N.A. 2020 [*Astrophys. J. Lett.*, 22 September 2020 (901, L21)](https://dx.doi.org/10.3847/2041-8213/abb409)
+**Işık, E.**, Shapiro, A.I., Solanki, S.K., Krivova, N.A. **2020**, Amplification of Brightness Variability by Active-region Nesting in Solar-like Stars, [*Astrophys. J. Lett.* 901, L21](https://dx.doi.org/10.3847/2041-8213/abb409)
 
 **Press release at MPI for Solar System Research** 
 
@@ -233,7 +233,7 @@ To better understand brightness variations of solar-type stars, it is instructiv
 
 **Reference**
 
-Nèmec, N.-E., **Işık, E.**, Shapiro, A.I., Solanki, S.K., Krivova, N.A., Unruh, Y. **2020**, [*Astron. & Astrophys. 638, A56*](https://doi.org/10.1051/0004-6361/202038054)
+Nèmec, N.-E., **Işık, E.**, Shapiro, A.I., Solanki, S.K., Krivova, N.A., Unruh, Y. **2020**, Connecting measurements of solar and stellar brightness variations, [*Astron. & Astrophys.* 638, A56](https://doi.org/10.1051/0004-6361/202038054)
 
 ---
 
@@ -249,8 +249,8 @@ How did the Sun look like billions of years ago, when it was much younger? We kn
 
 **References**
 
-**Işık, E.**, Solanki, S.K., Krivova, N.A., Shapiro, S.K. **2018** [*Astron. & Astrophys.* 620, A177](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.177I/abstract)<br>
-**Işık, E.**, Solanki, S.K., Krivova, N.A., Shapiro, S.K. **2018** [*Proc. of 20th Workshop on Cool Stars, Stell. Sys., & the Sun*](https://ui.adsabs.harvard.edu/abs/2018arXiv181208976I/abstract)
+**Işık, E.**, Solanki, S.K., Krivova, N.A., Shapiro, A.I. **2018**, Forward modelling of brightness variations in Sun-like stars. I. Emergence and surface transport of magnetic flux, [*Astron. & Astrophys.* 620, A177](https://ui.adsabs.harvard.edu/abs/2018A%26A...620A.177I/abstract)<br>
+**Işık, E.**, Solanki, S.K., Krivova, N.A., Shapiro, A.I. **2018**, [*Proc. of 20th Cambridge Workshop on Cool Stars, Stellar Systems, & the Sun*](https://ui.adsabs.harvard.edu/abs/2018arXiv181208976I/abstract)
 
 ---
 
@@ -263,7 +263,7 @@ We carried out a detailed analysis of photometric data from the *Kepler* space t
 
 **References**
 
-Özavcı, İ., Şenavcı, H.V., **Işık, E.**, Hussain, G.A.J., O'Neal, D., Yılmaz, M., Selam, S.O. **2018** [*Mon. Not. Roy. Astron. Soc.*, 474, 5534](http://adsabs.harvard.edu/abs/2018MNRAS.474.5534O)<br>
+Özavcı, İ., Şenavcı, H.V., **Işık, E.**, Hussain, G.A.J., O'Neal, D., Yılmaz, M., Selam, S.O. **2018**, Recurrent starspot activity and differential rotation in KIC 11560447, [*Mon. Not. Roy. Astron. Soc.* 474, 5534](http://adsabs.harvard.edu/abs/2018MNRAS.474.5534O)<br>
 **Işık, E.**, Özavcı, İ., Şenavcı, H.V., Hussain, G.A.J., O'Neal, D., Yılmaz, M., Selam, S.O. **2018** *IAU Symp. 340*, *Long-term Datasets for the Understanding of Solar and Stellar Magnetic Cycles*, Cambridge U. Press, in press (see [poster](http://www2.mps.mpg.de/homes/ishik/pdf/S340-Poster-KIC.pdf) or arXiv [preprint](https://arxiv.org/abs/1804.10619) for a 2-page summary)
 
 ---
@@ -280,10 +280,8 @@ We applied the model to two additional stellar models that are interesting to ob
 
 **References**
 
-**Işık, E.**, Schmitt, D., Schüssler, M., **2007**, [*Astron. Nachr.*, 328, 1111](http://adsabs.harvard.edu/abs/2007AN....328.1111I) 
-[First results for Sun-like stars]<br>
-**Işık, E.**, Schmitt, D., Schüssler, M., **2011**, [*Astron. & Astrophys.*, 528, A135](http://adsabs.harvard.edu/abs/2011A%26A...528A.135I)
-[Detailed description of the combined model and application to G and K stars.]
+**Işık, E.**, Schmitt, D., Schüssler, M. **2007**, A coupled model of magnetic flux generation and transport in stars, [*Astron. Nachr.* 328, 1111](http://adsabs.harvard.edu/abs/2007AN....328.1111I)<br>
+**Işık, E.**, Schmitt, D., Schüssler, M. **2011**, Magnetic flux generation and transport in cool stars, [*Astron. & Astrophys.* 528, A135](http://adsabs.harvard.edu/abs/2011A%26A...528A.135I)
 
 ---
 
@@ -297,6 +295,6 @@ I carried out numerical investigations concerning the effects of large-scale sur
 
 **Reference**
 
-**Işık, E.**, Schüssler, M., Solanki, S.K., **2007**, [*Astron. & Astrophys.* 464, 1049](http://www.aanda.org/component/article?access=bibcode&bibcode=&bibcode=2007A%2526A...464.1049IFUL)
+**Işık, E.**, Schüssler, M., Solanki, S.K. **2007**, Magnetic flux transport on active cool stars and starspot lifetimes, [*Astron. & Astrophys.* 464, 1049](http://www.aanda.org/component/article?access=bibcode&bibcode=&bibcode=2007A%2526A...464.1049IFUL)
 
 ---
