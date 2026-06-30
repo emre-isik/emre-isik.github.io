@@ -15,8 +15,20 @@ hr { margin: 2.5em 0; border: 0; border-top: 1px solid #181717; }
 </style>
 I am working on how the magnetic flux is generated in the solar interior (solar dynamo) and how it finds its way to the surface (flux emergence), as well as studying the Sun in the stellar context. Here are some results below (backward in time). 
 
-New papers (recently accepted):
-- Krivova, N.A., Chatzistergos, T., Kazachenko. M., **Işık, E.** 2026, _Phil. Trans. Roy. Soc. A_, [arXiv preprint](https://arxiv.org/abs/2603.09474), Empirical flare energy limits for the largest historical sunspots
+### **Empirical flare energy limits for the largest historical sunspots (2026)**
+
+<img src="/assets/images/Solar/flare-energy-limits.png" alt="flare-energy-limits.png" width="700">
+<p style="background-color: #f0f0f0; margin: 0; padding: 5px; font-size: 0.9em; text-align: left;">
+Bolometric flare energy as a function of active-region (AR) area. Solid curves show empirically derived 95th- (blue) and 99th-percentile (red) envelope relations; dashed curves are the corresponding upper prediction intervals. Vertical dashed lines mark the AR areas of the Carrington (1859) and 1947 events, with the hatched range for 1947 reflecting both image-based and empirically inferred area estimates.
+</p>
+
+How energetic could a solar flare be, given the largest sunspot groups ever recorded? This study builds an empirical chain linking historical sunspot areas to total active-region areas (via a spot-to-AR scaling), then to flare ribbon areas (from the SDO-era K2017 catalogue), and finally to bolometric flare energies. Applied to eight landmark events — from the 1859 Carrington spot to the great 1947 spot and the Halloween 2003 active regions — **the framework provides observationally grounded upper bounds on solar flare energies without requiring direct historical flare measurements**.
+
+The largest sunspot group in the instrumental record, the April 1947 spot, yields a 99th-percentile bolometric energy approaching ~10<sup>34</sup> erg — the level commonly invoked as the threshold for "superflares" on Sun-like stars. The results are validated against AR 12192 (October 2014), the only event common to both the historical sample and the K2017 catalogue, where predicted ribbon areas and energies agree well with direct observations. The analysis also highlights that nesting or merging of multiple large active regions could raise flare energies beyond the single-AR limits derived here.
+
+**Reference**
+
+Krivova, N.A., Chatzistergos, T., Kazachenko, M., **Işık, E.** **2026**, Empirical flare energy limits for the largest historical sunspots, [*Phil. Trans. Roy. Soc. A*, accepted](https://arxiv.org/abs/2603.09474)
 
 ---
 
@@ -43,7 +55,7 @@ The analysis reveals hierarchical structure: small groups cluster strongly aroun
 
 Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V. **2026**, Quantifying sunspot group nesting with density-based unsupervised clustering, [*Sol. Phys.* 301, 34](https://doi.org/10.1007/s11207-026-02632-2){:target="_blank" rel="noopener noreferrer"} 
 
-[Plain-language and technical summaries (Gist.Science)](https://gist.science/paper/2512.17364#gist) — **Disclaimer:** Gist.Science content is AI-generated; refer to the original paper for accurate details.
+<!-- [Plain-language and technical summaries (Gist.Science)](https://gist.science/paper/2512.17364#gist) — **Disclaimer:** Gist.Science content is AI-generated; refer to the original paper for accurate details. -->
 
 
 ---
