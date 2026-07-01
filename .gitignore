@@ -9,3 +9,6 @@ assets/images/.DS_Store
 Gemfile
 Gemfile.lock
 ingest_local
+CLAUDE.md
+*.bak
+*~
