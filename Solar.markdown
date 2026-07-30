@@ -32,7 +32,7 @@ Krivova, N.A., Chatzistergos, T., Kazachenko, M., **Işık, E.** **2026**, Empir
 
 ---
 
-### **Quantifying sunspot group nesting by unsupervised machine learning (2025)**
+### **Quantifying sunspot group nesting by unsupervised machine learning (2026)**
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 400px;">
   <img src="/assets/images/Solar/lontime_16S.png" alt="nesting" width="400">

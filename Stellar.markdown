@@ -30,7 +30,7 @@ A complication is that metallicity and temperature introduce significant scatter
 
 **Reference**
 
-**Işık, E.**, Solanki, S.K., Krivova, N.A., Shapiro, A.I. **2026**, The rotation-magnetism relationship in solar-type stars: Constraining magnetic flux emergence rates, [*Astron. & Astrophys.*, accepted](https://ui.adsabs.harvard.edu/abs/2025arXiv251218095I/abstract)
+**Işık, E.**, Solanki, S.K., Krivova, N.A., Shapiro, A.I. **2026**, The rotation-magnetism relationship in solar-type stars: Constraining magnetic flux emergence rates, [*Astron. & Astrophys.* 711, A48](https://doi.org/10.1051/0004-6361/202558620)
 
 ---
 
