@@ -15,7 +15,7 @@ hr { margin: 2.5em 0; border: 0; border-top: 1px solid #181717; }
 </style>
 I am working on how the magnetic flux is generated in the solar interior (solar dynamo) and how it finds its way to the surface (flux emergence), as well as studying the Sun in the stellar context. Here are some results below (backward in time). 
 
-### **Empirical flare energy limits for the largest historical sunspots (2026)**
+### **Empirical flare energy limits for the largest historical sunspots (2026)** {#flare-limits-2026}
 
 <img src="/assets/images/Solar/flare-energy-limits.png" alt="flare-energy-limits.png" width="700">
 <p style="background-color: #f0f0f0; margin: 0; padding: 5px; font-size: 0.9em; text-align: left;">
@@ -32,7 +32,7 @@ Krivova, N.A., Chatzistergos, T., Kazachenko, M., **Işık, E.** **2026**, Empir
 
 ---
 
-### **Quantifying sunspot group nesting by unsupervised machine learning (2026)**
+### **Quantifying sunspot group nesting by unsupervised machine learning (2026)** {#nesting-2026}
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 400px;">
   <img src="/assets/images/Solar/lontime_16S.png" alt="nesting" width="400">
@@ -61,7 +61,7 @@ Karapınar, N., **Işık, E.**, Krivova, N.A., Şenavcı, H.V. **2026**, Quantif
 ---
 
 
-### **How would the Sun "as a star" look like if observed by *Kepler* or *Gaia*? (2020)**
+### **How would the Sun "as a star" look like if observed by *Kepler* or *Gaia*? (2020)** {#sun-as-a-star-2020}
 
 ![Sun as a star](/assets/images/Stellar/Screenshot_2021-11-06_at_21.40.42.png)
 
@@ -73,7 +73,7 @@ Nèmec, N.-E., **Işık, E.**, Shapiro, A.I., Solanki, S.K., Krivova, N.A., Unru
 
 ---
 
-### **A mechanism for cyclic variations of sunspot group tilt angles (2015)**
+### **A mechanism for cyclic variations of sunspot group tilt angles (2015)** {#tilt-2015}
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 400px;">
   <img src="/assets/images/Solar/tilt-all.png" alt="tilt-all" width="400">
@@ -87,7 +87,7 @@ The average tilt angle of sunspot groups emerging throughout the solar cycle det
 
 ---
 
-### **Limits to solar cycle predictability: cross-equatorial flux plumes (2013)**
+### **Limits to solar cycle predictability: cross-equatorial flux plumes (2013)** {#flux-plumes-2013}
 
 ![plumes.png](/assets/images/Solar/plumes.png)
 
@@ -99,7 +99,7 @@ Cameron, R.H., Dasi-Espuig, M., Jiang, J., **Işık, E.**, Schmitt, D., Schüssl
 
 ---
 
-### **Modelling solar cycles 15-21 using a flux transport dynamo (2013)**
+### **Modelling solar cycles 15-21 using a flux transport dynamo (2013)** {#cycles-2013}
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 450px;">
   <img src="/assets/images/Solar/rad-tor-fields.png" alt="rad-tor-fields" width="450">
@@ -113,7 +113,7 @@ Jiang, J., Cameron, R.H., Schmitt, D., **Işık, E.** **2013**, Modeling solar c
 
 ---
 
-### **Constraining the flux transport dynamo by surface transport models (2012)**
+### **Constraining the flux transport dynamo by surface transport models (2012)** {#sft-2012}
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 180px;">
   <img src="/assets/images/Solar/sft-ftd.png" alt="sft-ftd" width="180">
@@ -127,7 +127,7 @@ Cameron, R.H., Schmitt, D., Jiang, J., **Işık, E.** **2012**, Surface flux evo
 
 ---
 
-### **The effect of activity-related meridional flow modulation on the solar polar magnetic field (2010)**
+### **The effect of activity-related meridional flow modulation on the solar polar magnetic field (2010)** {#inflow-2010}
 
 ![inflow2.png](/assets/images/Solar/inflow2.png)
 
@@ -139,7 +139,7 @@ Jiang, J., **Işık, E.**, Cameron, R.H., Schmitt, D., Schüssler, M. **2010**, 
 
 ---
 
-### **Flow instabilities in magnetic flux tubes: flux storage in the solar overshoot region (2009)**
+### **Flow instabilities in magnetic flux tubes: flux storage in the solar overshoot region (2009)** {#overshoot-2009}
 
 ![img268.png](/assets/images/Solar/img268.png)
 
