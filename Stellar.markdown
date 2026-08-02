@@ -17,7 +17,7 @@ I am exploring mechanisms for emergence and transport of magnetic fields in (esp
 
 ---
 
-### **How does stellar magnetic flux emergence scale with rotation? (2026)**
+### **How does stellar magnetic flux emergence scale with rotation? (2026)** {#rotation-magnetism-2026}
 
 <img src="/assets/images/Stellar/B_vs_rotation_CORRECTED.png" alt="B_vs_rotation_CORRECTED.png" width="700">
 <p style="background-color: #f0f0f0; margin: 0; padding: 5px; font-size: 0.9em; text-align: left;">
@@ -34,7 +34,7 @@ A complication is that metallicity and temperature introduce significant scatter
 
 ---
 
-### **Boosting starspot mapping with high-cadence photometry (2026)**
+### **Boosting starspot mapping with high-cadence photometry (2026)** {#pw-andromedae-2026}
 
 <img src="/assets/images/Stellar/Lee25a.png" alt="Lee25a.png" width="350">
 <img src="/assets/images/Stellar/Lee25b.png" alt="Lee25b.png" width="350">
@@ -49,7 +49,7 @@ Lee, S., Bahar, E., Şenavcı, H.V., **Işık, E.**, Ikuta, K., Namekata, K., Na
 
 ---
 
-### **Asteroseismic constraints on stellar rotation-activity relationship (2026)**
+### **Asteroseismic constraints on stellar rotation-activity relationship (2026)** {#rotation-xray-2026}
 
 <img src="/assets/images/Stellar/RxRo.png" alt="RxRo.png" width="700">
 
@@ -61,7 +61,7 @@ Pezzotti, C., Bétrisey, J., Buldgen, G., Gilfanov, M., Bikmaev, I., Sunyaev, R.
 
 ---
 
-### **How can a young and fast Sun have low-latitude spots? (2024)**
+### **How can a young and fast Sun have low-latitude spots? (2024)** {#lowlat-2024}
 
 <img src="/assets/images/Stellar/FT_intensification.png" alt="FT_intensification.png" width="400">
 <img src="/assets/images/Stellar/FT_emergence_pattern.png" alt="FT_emergence_pattern.png" width="250">
@@ -74,7 +74,7 @@ How do starspots on rapidly rotating solar-type stars emerge at so low latitudes
 
 ---
 
-### **Photospheric/chromospheric activity of PW And and a new Doppler imaging code: SpotDIPy (2024)**
+### **Photospheric/chromospheric activity of PW And and a new Doppler imaging code: SpotDIPy (2024)** {#spotdipy-2024}
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 250px;">
   <img src="/assets/images/Stellar/PWAnd_Doppler.png" alt="Doppler images of PW And" width="250">
@@ -94,7 +94,7 @@ Bahar, E., Şenavcı, H.V., **Işık, E.**, Hussain, G.A.J., Kochukhov, O., Mont
 
 ---
 
-### **Forward modelling brightness variability in solar-type stars (2023)**
+### **Forward modelling brightness variability in solar-type stars (2023)** {#feat-p-2023}
 
 **Application #4 of the** **`FEAT` model**
 
@@ -116,7 +116,7 @@ Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Solanki, S.K., Reinhold, T. **2023
 
 ---
 
-### **How spots survive on active suns, amid facular cannibalism (2022)**
+### **How spots survive on active suns, amid facular cannibalism (2022)** {#cannibalism-2022}
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 450px;">
   <img src="/assets/images/Stellar/Screenshot_2022-12-02_at_17.29.28.png" alt="Description of image 1" width="450">
@@ -133,7 +133,7 @@ Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Sowmya, K., Solanki, S.K., Krivova
 
 ---
 
-### **Predicting astrometric jitter for Sun-like stars: fast-rotating suns (2022)**
+### **Predicting astrometric jitter for Sun-like stars: fast-rotating suns (2022)** {#feat-a-2022}
 
 **Application #3 of the** **`FEAT` model**
 
@@ -159,7 +159,7 @@ Sowmya, K., Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Krivova, N.A., Solanki
 
 ---
 
-### **Predicting astrometric jitter for Sun-like stars: effects of inclination, metallicity, and active-region nesting (2021)**
+### **Predicting astrometric jitter for Sun-like stars: effects of inclination, metallicity, and active-region nesting (2021)** {#feat-a-2021}
 
 **Application #2 of the** **`FEAT` model**
 
@@ -176,7 +176,7 @@ Sowmya, K., Nèmec, N.-E., Shapiro, A.I., **Işık, E.**, Witzke, V., Mints, A.,
 
 ---
 
-### **Starspot distribution of the young solar analogue star EK Draconis (2021)**
+### **Starspot distribution of the young solar analogue star EK Draconis (2021)** {#ek-draconis-2021}
 
 **The first application of the `FEAT` model**
 
@@ -193,7 +193,7 @@ Using the FEAT framework, we set up surface brightness distribution snapshots of
 
 ---
 
-### **Why is it so hard to detect rotational signals of Sun-like stars? (2021)**
+### **Why is it so hard to detect rotational signals of Sun-like stars? (2021)** {#rotsignal-2021}
 
 ![Rotational signals](/assets/images/Stellar/Screenshot_2022-12-02_at_14.09.17.png)
 
@@ -205,7 +205,7 @@ Reinhold, T., Shapiro, A.I., Witzke, V., Nèmec, N.-E., **Işık, E.**, Solanki,
 
 ---
 
-### **What causes strong brightness variations in Sun-like stars?  (2020)**
+### **What causes strong brightness variations in Sun-like stars?  (2020)** {#nesting-variability-2020}
 
 ![nesting_cartoon.png](/assets/images/Stellar/nesting_cartoon.png)
 
@@ -225,7 +225,7 @@ We designed numerical experiments of stellar variability in the rotational times
 
 ---
 
-### **How would the Sun "as a star" look like if observed by *Kepler* or *Gaia*? (2020)**
+### **How would the Sun "as a star" look like if observed by *Kepler* or *Gaia*? (2020)** {#sun-as-a-star-2020}
 
 ![Screenshot 2021-11-06 at 21.40.42.png](/assets/images/Stellar/Screenshot_2021-11-06_at_21.40.42.png)
 
@@ -237,7 +237,7 @@ Nèmec, N.-E., **Işık, E.**, Shapiro, A.I., Solanki, S.K., Krivova, N.A., Unru
 
 ---
 
-### **Modelling magnetic activity and starspot distributions on solar-type stars (2018)**
+### **Modelling magnetic activity and starspot distributions on solar-type stars (2018)** {#feat-2018}
 
 **Introducing the `FEAT` (Flux Emergence And Transport) model**
 
@@ -254,7 +254,7 @@ How did the Sun look like billions of years ago, when it was much younger? We kn
 
 ---
 
-### **Revealing starspot activity and differential rotation on a K1 sub-giant star (2018)**
+### **Revealing starspot activity and differential rotation on a K1 sub-giant star (2018)** {#subgiant-2018}
 
 <img src="/assets/images/Stellar/kicsim.png" alt="simulation mask" width="250">
 <img src="/assets/images/Stellar/kicobs.png" alt="observational inference" width="450">
@@ -268,7 +268,7 @@ We carried out a detailed analysis of photometric data from the *Kepler* space t
 
 ---
 
-### **A combined model for magnetic field generation and transport in cool stars (2007, 2011)**
+### **A combined model for magnetic field generation and transport in cool stars (2007, 2011)** {#combined-dynamo-2011}
 
 <img src="/assets/images/Stellar/26d.png" alt="Prot=26d" width="220">
 <img src="/assets/images/Stellar/9d.png" alt="Prot=9d" width="220">
@@ -285,7 +285,7 @@ We applied the model to two additional stellar models that are interesting to ob
 
 ---
 
-### **Magnetic flux transport on active cool stars: lifetimes of starspots (2007)**
+### **Magnetic flux transport on active cool stars: lifetimes of starspots (2007)** {#lifetimes-2007}
 
 <div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 250px;">
   <img src="/assets/images/Stellar/AAcover.png" alt="Subgiant spots" width="250">
