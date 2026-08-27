@@ -27,11 +27,11 @@ You can follow me on [Twitter](https://twitter.com/emre_ishik) and [ResearchGate
 ## 🔭 Research
 ---
 <br>
-🌼[Stellar magnetic activity]({% link Stellar.markdown %})
+🌼[Stellar magnetic activity]({% link Stellar.md %})
 
-🌻[Solar magnetic activity]({% link Solar.markdown %})
+🌻[Solar magnetic activity]({% link Solar.md %})
 
-💦 [Astrobiology of ocean worlds]({% link Astrobiology.markdown %})
+💦 [Astrobiology of ocean worlds]({% link Astrobiology.md %})
 
 My bibliography [at NASA/ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Isik%2C%20Emre%22&sort=date%20desc%2C%20bibcode%20desc){:target="_blank" rel="noopener noreferrer"} 
 and [at SciX by ADS](https://scixplorer.org/search?d=astrophysics&p=1&q=author%3A%22Isik%2C+Emre%22&sort=date+desc){:target="_blank" rel="noopener noreferrer"}. 
@@ -52,7 +52,7 @@ and [at SciX by ADS](https://scixplorer.org/search?d=astrophysics&p=1&q=author%3
 
 ---
 <br>
-🧑🏻‍🏫 [Courses]({% link Teaching.markdown %}) I gave along my career
+🧑🏻‍🏫 [Courses]({% link Teaching.md %}) I gave along my career
 
 <br>
 ---
